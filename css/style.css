@@ -4,7 +4,8 @@ img[src*="keyboard"]{
 }
 
 img[src*="mycar"]{
-	max-width: 100%;
+	max-width: 95%;
+	align-self:auto;
 }
 
 img[src*="rocky"]{
