@@ -1,0 +1,28 @@
+/**IMAGES RESPONSIVE SIZING**/
+img[src*="keyboard"]{
+	max-width: 100%;
+}
+
+img[src*="mycar"]{
+	max-width: 100%;
+}
+
+img[src*="rocky"]{
+	max-width: 150px;
+	max-height: 150px;
+	border-radius: 50%;
+}
+/**PAGE STYLING**/
+#logo{
+	align-self: center;	
+}
+
+#title{
+	align-self:center;
+	text-align: end;
+}
+
+#header{
+	border-bottom: 4px solid #bcbbbb;
+	padding-bottom: 20px;
+}
