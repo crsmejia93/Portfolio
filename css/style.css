@@ -6,6 +6,18 @@ img[src*="keyboard"]{
 img[src*="mycar"]{
 	max-width: 95%;
 	align-self:auto;
+	margin-left: 20px;
+}
+
+img[src*="code"]{
+	max-width: 95%;
+	align-self:auto;
+}
+
+img[src*="sunset"]{
+	max-width: 95%;
+	align-self:auto;
+	margin-left: 10px;
 }
 
 img[src*="rocky"]{
@@ -13,7 +25,7 @@ img[src*="rocky"]{
 	max-height: 150px;
 	border-radius: 50%;
 }
-/**PAGE STYLING**/
+/**PAGE STYLING*****************************/
 #logo{
 	align-self: center;	
 }
@@ -25,5 +37,15 @@ img[src*="rocky"]{
 
 #header{
 	border-bottom: 4px solid #bcbbbb;
+	padding-top: 10px;
 	padding-bottom: 20px;
+}
+
+h1{
+	font-weight: lighter;
+	font-size: 46px;
+}
+
+h3{
+	text-align: center;
 }
