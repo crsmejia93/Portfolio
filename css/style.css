@@ -39,13 +39,28 @@ img[src*="rocky"]{
 	border-bottom: 4px solid #bcbbbb;
 	padding-top: 10px;
 	padding-bottom: 20px;
+	line-height: 1.2em;
 }
 
 h1{
-	font-weight: lighter;
-	font-size: 46px;
+	color: #bcbbbb;
+	font-weight: 300;
+	font-size: 56px;
+}
+
+h2{
+	 color: #bcbbbb;
+	 font-weight: 600;
+	 font-size: 20px
+}
+
+#workTitle{
+	font-size: 25px;
 }
 
 h3{
+	color: #747704;
 	text-align: center;
+	font-weight: 500;
+	font-size: 27px;
 }
